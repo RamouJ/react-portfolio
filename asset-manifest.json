@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.7160c8ca.css",
-    "main.js": "/static/js/main.dfeab9d9.js",
-    "static/js/333.ff23a92f.chunk.js": "/static/js/333.ff23a92f.chunk.js",
-    "static/media/police_project.png": "/static/media/police_project.377dd64d787b044e539c.png",
-    "static/media/profile.png": "/static/media/profile.47f5ae370aa0e21fd457.png",
-    "static/media/map_tiles_project.png": "/static/media/map_tiles_project.b3435f8a666b7dd5cc7f.png",
-    "static/media/flow_project.png": "/static/media/flow_project.c452e9d5a80d52c0df51.png",
-    "static/media/nafplio_project.png": "/static/media/nafplio_project.ade7851ab9d5c7ab6889.png",
-    "static/media/airport_project.png": "/static/media/airport_project.dffbef85be13ec1cbe9d.png",
-    "static/media/coral_project.png": "/static/media/coral_project.92fe5c68415851ea37f2.png",
-    "static/media/twitter_project.png": "/static/media/twitter_project.31c954d4f7e84033a6c8.png",
-    "static/media/forest_project.png": "/static/media/forest_project.d892b73377833711964f.png",
-    "static/media/web_portfolio_project.png": "/static/media/web_portfolio_project.111bd3ad28048dd1b2d8.png",
-    "static/media/Ramou_Jallow_Resume.pdf": "/static/media/Ramou_Jallow_Resume.9ffb1077b4dad469f38a.pdf",
-    "index.html": "/index.html",
-    "main.7160c8ca.css.map": "/static/css/main.7160c8ca.css.map",
-    "main.dfeab9d9.js.map": "/static/js/main.dfeab9d9.js.map",
-    "333.ff23a92f.chunk.js.map": "/static/js/333.ff23a92f.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.7160c8ca.css",
+    "main.js": "/react-portfolio/static/js/main.ab57e983.js",
+    "static/js/333.ff23a92f.chunk.js": "/react-portfolio/static/js/333.ff23a92f.chunk.js",
+    "static/media/police_project.png": "/react-portfolio/static/media/police_project.377dd64d787b044e539c.png",
+    "static/media/profile.png": "/react-portfolio/static/media/profile.47f5ae370aa0e21fd457.png",
+    "static/media/map_tiles_project.png": "/react-portfolio/static/media/map_tiles_project.b3435f8a666b7dd5cc7f.png",
+    "static/media/flow_project.png": "/react-portfolio/static/media/flow_project.c452e9d5a80d52c0df51.png",
+    "static/media/nafplio_project.png": "/react-portfolio/static/media/nafplio_project.ade7851ab9d5c7ab6889.png",
+    "static/media/airport_project.png": "/react-portfolio/static/media/airport_project.dffbef85be13ec1cbe9d.png",
+    "static/media/coral_project.png": "/react-portfolio/static/media/coral_project.92fe5c68415851ea37f2.png",
+    "static/media/twitter_project.png": "/react-portfolio/static/media/twitter_project.31c954d4f7e84033a6c8.png",
+    "static/media/forest_project.png": "/react-portfolio/static/media/forest_project.d892b73377833711964f.png",
+    "static/media/web_portfolio_project.png": "/react-portfolio/static/media/web_portfolio_project.111bd3ad28048dd1b2d8.png",
+    "static/media/Ramou_Jallow_Resume.pdf": "/react-portfolio/static/media/Ramou_Jallow_Resume.9ffb1077b4dad469f38a.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.7160c8ca.css.map": "/react-portfolio/static/css/main.7160c8ca.css.map",
+    "main.ab57e983.js.map": "/react-portfolio/static/js/main.ab57e983.js.map",
+    "333.ff23a92f.chunk.js.map": "/react-portfolio/static/js/333.ff23a92f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7160c8ca.css",
-    "static/js/main.dfeab9d9.js"
+    "static/js/main.ab57e983.js"
   ]
 }
