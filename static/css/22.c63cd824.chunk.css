@@ -1,0 +1,2 @@
+nav{display:flex;flex-direction:row-reverse;left:-6.5rem;position:fixed;top:15%;-webkit-transform:rotate(-90deg) translate3d(-50%,0,0);transform:rotate(-90deg) translate3d(-50%,0,0)}nav a{color:#575757}nav a,nav a:hover{margin-right:20px;text-decoration:none}nav a.active,nav a:hover{color:#ec704c}
+/*# sourceMappingURL=22.c63cd824.chunk.css.map*/
